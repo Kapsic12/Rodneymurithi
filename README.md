@@ -3,7 +3,7 @@
 
 SVG to Graphics DisplayObject for pixi.js.
 
-[![Build Status](https://github.com/Kapsic12/pixi-svg.svg?branch=master)](https://github.com/RodneyMurithi/pixi-svg)
+[![Build Status1](https://github.com/Kapsic12/pixi-svg.svg?branch=master)](https://github.com/RodneyMurithi/pixi-svg)
 
 ## Examples
 
